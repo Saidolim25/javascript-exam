@@ -1,0 +1,40 @@
+/* #img{
+    width: 200px;
+    height: 200px;
+} */
+img{
+    width: 392.889px;
+    height: 192.889px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+    margin-bottom: 0px;
+
+}
+
+.underline{
+    display: flex;
+    border: 1px solid;
+    width: 100px;
+    height: 4px;
+    margin-left: 800px;
+    background-color: orange;
+
+}
+
+/* .box{
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin-left: 500px;
+    height: 600px;
+
+} */
+
+
